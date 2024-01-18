@@ -4,7 +4,7 @@ App written in Julia and using GTK+ 3 for an Engineering Thesis titled „Simula
 
 ## Setup (Windows users)
 
-- Install portable Julia version. You can download it in [Julia's official website], or directly from here: [Julia 1.10.0 64-bit](), [Julia 1.10.0 32-bit]()
+- Install portable Julia version. You can download it in [Julia's official website](https://julialang.org/downloads/), or directly from here: [Julia 1.10.0 64-bit](https://julialang-s3.julialang.org/bin/winnt/x64/1.10/julia-1.10.0-win64.zip), [Julia 1.10.0 32-bit](https://julialang-s3.julialang.org/bin/winnt/x86/1.10/julia-1.10.0-win32.zip)
 - Move downloaded .zip file to the directory of this project;
 - Unpack the .zip file: *avoid making another directory* - for example, if you downloaded Julia 1.10.0, unpacked directory should have a name `julia-1.10.0`
 - open the `cmd` terminal with path of the project directory. You can do that through typing `cmd` in Windows Explorer's current path or by running the command `cd [path to project's directory]`
