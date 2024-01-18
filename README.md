@@ -8,9 +8,9 @@ App written in Julia and using GTK+ 3 for an Engineering Thesis titled „Simula
 - Move downloaded .zip file to the directory of this project;
 - Unpack the .zip file: *avoid making another directory* - for example, if you downloaded Julia 1.10.0, unpacked directory should have a name `julia-1.10.0`
 - open the `cmd` terminal with path of the project directory. You can do that through typing `cmd` in Windows Explorer's current path or by running the command `cd [path to project's directory]`
-- asserting that julia folder is named `julia-1.10.0`, run the following commands:
-<br>`julia-1.10.0\bin\julia.exe run-me-first.jl`
-<br>and wait until Julia exits to cmd. Then type
-<br>`julia-1.10.0\bin\julia.exe main.jl`
-<br>to run GenHydro application.
+- asserting that julia folder is named `julia-1.10.0`, run the following commands:<br>
+<br>`julia-1.10.0\bin\julia.exe run-me-first.jl`<br>
+<br>and wait until Julia exits to cmd. Then type<br>
+<br>`julia-1.10.0\bin\julia.exe main.jl`<br>
+<br>to run GenHydro application.<br>
 <br>Note: *don't exit from the terminal: the app is using Julia REPL, quitting Julia will terminate the app!*
