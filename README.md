@@ -13,7 +13,7 @@ Aplikacja napisana w języku Julia i korzystająca z GTK+ 3 w ramach Pracy Inży
 - open the `cmd` terminal with path of the project directory. You can do that through typing `cmd` in *Windows File Manager* when viewing GenHydro's project folder or by running the command `cd [path to GenHydro's directory]`
 - asserting that julia folder is named `julia-1.9.4`, run the following commands:<br>
 <br>`julia-1.9.4\bin\julia.exe run-me-first.jl`<br>
-<br>and wait until Julia exits to cmd. Then type<br>
+<br>and wait until Julia exits to cmd. Ignore warnings and errors. Then write<br>
 <br>`julia-1.9.4\bin\julia.exe main.jl`<br>
 <br>to run GenHydro application.<br>
 <br>Note: *don't exit from the terminal: the app is using Julia REPL, quitting Julia will terminate the app!*
@@ -28,7 +28,7 @@ Aplikacja napisana w języku Julia i korzystająca z GTK+ 3 w ramach Pracy Inży
 - Otwórz terminal `cmd` w ścieżce katalogu projektu. Możesz to zrobić, wpisując `cmd` w *Menedżerze plików systemu Windows* przy widoku katalogu projektu GenHydro lub uruchamiając polecenie `cd [ścieżka do katalogu GenHydro]`
 - Zakładając, że folder z Julią ma nazwę `julia-1.9.4`, uruchom poniższe polecenia:<br>
 <br>`julia-1.9.4\bin\julia.exe run-me-first.jl`<br>
-<br>i poczekaj, aż Julia zakończy działanie w terminalu. Następnie wpisz<br>
+<br>i poczekaj, aż Julia zakończy działanie w terminalu. Zignoruj ostrzeżenia i błędy. Następnie wpisz<br>
 <br>`julia-1.9.4\bin\julia.exe main.jl`<br>
 <br>aby uruchomić aplikację GenHydro.<br>
 <br>Uwaga: *nie zamykaj terminalu: aplikacja korzysta z Julia REPL, zakończenie działania Julii zakończy również działanie aplikacji!*
